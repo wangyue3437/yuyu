@@ -1,0 +1,63 @@
+.vw{
+	width: 875px;
+	height: 625px;
+	float: left;
+}
+.hu{
+	float: left;
+}
+.mw{
+	width: 200px;
+	height: 200px;
+	/*float: left;*/
+}
+.lo{
+	width: 675px;
+	height: 625px;
+	float: left;
+}
+.iu{
+	font-size: 43px;
+	padding-top: 12px;
+    padding-left: 108px;
+}
+.uo{
+	padding-left: 108px;
+	font-size: 20px;
+}
+.pp{
+	margin-left: 108px;
+    margin-top: 39px;
+}
+.pp input{
+	width: 480px;
+	height: 52px;
+	
+}
+.kj{
+	margin-left: 108px;
+    margin-top: 10px;
+}
+.kj input{
+	width: 480px;
+	height: 52px;
+}
+.wr{
+	margin-left: 108px;
+    margin-top: 20px;
+}
+.wr input{
+	width: 150px;
+	height: 25px;
+}
+.ee{
+	margin-left: 108px;
+    margin-top: 20px;
+}
+.rr{
+	margin-left: 108px;
+    margin-top: 20px;
+    width: 480px;
+	height: 52px;
+	background: blue;
+}
