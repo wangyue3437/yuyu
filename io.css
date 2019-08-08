@@ -1,0 +1,27 @@
+.yt{
+	width: 1343px;
+	height: 625px;
+	background: url(imgs/bg.jpg);
+}
+.jk{
+	width: 100%;
+	height: 48px;
+	float: left;
+}
+.lolo{
+	float: left;
+	list-style: none;
+}
+.lolo li{
+	float: left;
+	font-size: 20px;
+}
+.lolo a{
+	color: white;
+	text-decoration: none;
+}
+.jc{
+	font-size: 20px;
+    padding-left: 456px;
+	float: left;
+}
